@@ -1,0 +1,7 @@
+For reverse,
+O(n) time with n the number of nodes in list
+O(1) space
+
+For push and pop,
+O(1) time
+O(1) space

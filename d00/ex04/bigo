@@ -1,0 +1,3 @@
+O(n + m) time
+O(m) space
+with n the length of text and m the length of pattern

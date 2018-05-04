@@ -1,0 +1,2 @@
+O(n + m) time with n the number of elements in array and m the number of unique elements in array
+O(m) space

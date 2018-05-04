@@ -1,0 +1,2 @@
+O(n log n) time at best, degrades to O(n^2) time when the array is already in order
+O(log n) space

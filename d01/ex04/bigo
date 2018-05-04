@@ -1,0 +1,3 @@
+For all operations(enqueue, dequeue, peek, isEmpty):
+O(1) time
+O(1) space

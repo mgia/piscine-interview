@@ -1,0 +1,7 @@
+stringAppend:
+O(n) time with n the length of string.
+O(m + n) space with m the capacity of dyString and n the length of word.
+
+decompress:
+O(n) time
+O(n + m) space, with n the length of book and m the sum of replaced words.

@@ -1,0 +1,7 @@
+For search,
+O(n) time with n the number of elements in array assuming all elements collide
+O(n) space
+
+For insert,
+O(n) time with n the number of elements in array assuming all elements collide
+O(n) space

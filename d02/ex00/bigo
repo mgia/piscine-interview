@@ -1,0 +1,2 @@
+O(n + m^2) time with n the number of stones and m the number of groups
+O(m) space

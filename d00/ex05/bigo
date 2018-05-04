@@ -1,0 +1,7 @@
+For Compress,
+O(n) time with n the number of characters in book
+O(n + m) space with m the number of characters in header
+
+For Header,
+O(n) time with n the number of elements in dictionary
+O(nm) space with n the number of elements in dictionary and m the length of each element name 
