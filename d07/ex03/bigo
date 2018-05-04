@@ -1,0 +1,3 @@
+With k the number of visited nodes and r the number of nodes returned,
+O(k + r) time
+O(r) space
